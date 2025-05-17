@@ -11,12 +11,22 @@ JBSoftBox is a personal project where I upload and manage my own software creati
 ## 🛠️ Built With
 
 This repository and software platform use the following programming languages and tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+    <strong>Python</strong> 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  (80%)  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/>
+    <strong>MySQL</strong>  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜  (60%)  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
+    <strong>PHP</strong>    🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜  (55%)  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>
+    <strong>HTML</strong>   🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  (35%)  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
+    <strong>CSS</strong>    🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  (25%)  <br>
+</p>
 
-- **HTML**
-- **CSS**
-- **PHP**
-- **Python** (for backend utilities)
-- **CustomTkinter** (for desktop GUI apps)
+## 👁️ GitHub Views
+
+<img src="https://komarev.com/ghpvc/?username=jbsoftboxweb&color=blue" alt="Profile views" />
 
 ## 💼 Business Model
 
@@ -24,17 +34,18 @@ This repository and software platform use the following programming languages an
 - **Affiliate Monetization** through platforms like **Exe.io**
 - Planning future integration of **ads via PropellerAds**
 
-## 📈 Monetization
-
-- Software downloads are monetized using [Exe.io](https://exe.io)
-- Plans to integrate additional ad networks (like PropellerAds)
 
 ## 📬 Contact / Feedback
 
 I welcome feedback and suggestions! Feel free to contact me:
 
-- 📧 Email: jbsoftbox.contact@gmail.com
 - 🌐 Website Contact Form: [https://jbsoftbox.free.nf](https://jbsoftbox.free.nf)
+
+<p align="center">
+  <a href="https://wa.me/+94703640017" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/ </a> 
+  <a href="https://t.me/Jbsoftbox" target="_blank"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> 
+  <a href="mailto:www.jbsoftbox.sl@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> 
+</p>
 
 ## 🛡️ Privacy Notice
 
