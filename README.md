@@ -2,7 +2,6 @@
 <br>
 
 ## About
-<hr>
 <p><i>I am a dedicated software developer with a passion for creating innovative solutions that make everyday tasks easier and more efficient. Specializing in Python, I design and build database-driven applications, providing businesses with powerful tools to streamline their operations. With a focus on modern, user-friendly interfaces, my software solutions are crafted to not only meet the needs of my clients but also to enhance their workflows, making their work easier and more productive.</i></p>
 
 <br>
