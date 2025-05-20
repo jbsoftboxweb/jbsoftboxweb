@@ -28,6 +28,8 @@ This repository and software platform use the following programming languages an
 
 <img src="https://komarev.com/ghpvc/?username=jbsoftboxweb&color=blue" alt="Profile views" />
 
+[![JB Softbox's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbsoftboxweb&show_icons=true&theme=tokyonight)](https://github.com/jbsoftboxweb)
+
 ## 💼 Business Model
 
 - **Software Distribution**
